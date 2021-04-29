@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Welcome to my Github Page! 
 
-You can use the [editor on GitHub](https://github.com/sashaednyasheva/sashaednyasheva.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I’m currently pursuing a software engineering training course at Per Scholas in New York. 
+Before this course, I worked in multiple marketing roles in publishing, hospitality and entertainment. 
+When I complete the course in July 2021 I will have experience working with HTML5, CSS3, Javascript and React. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m looking forward to connecting with you to discuss how I can become a valueable part of your development team.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### MODULE 1 - THE GAME PROJECT
 
-```markdown
-Syntax highlighted code block
+![MemoryGameStreetArtIndex](https://user-images.githubusercontent.com/80981810/116497642-dbf77600-a875-11eb-925e-42d34f7f51ed.png)
 
-# Header 1
-## Header 2
-### Header 3
+![MemoryGameStreetArtIndex1](https://user-images.githubusercontent.com/80981810/116497644-dc900c80-a875-11eb-8ce9-834e737dcb54.png)
 
-- Bulleted
-- List
+![MemoryGameStreetArtIndex2](https://user-images.githubusercontent.com/80981810/116497645-dc900c80-a875-11eb-94dd-2392bc675133.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sashaednyasheva/sashaednyasheva.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
