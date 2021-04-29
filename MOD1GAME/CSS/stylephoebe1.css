@@ -1,0 +1,102 @@
+body, html {
+    background-color:rgb(43, 68, 94);
+}
+
+#titleImage{
+    margin-top: 50px;
+    display: flex;
+    align-self:center;
+    justify-content: center;
+    
+}
+
+.grid {
+    width: 70vw;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    grid-gap:10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content:center;
+}
+
+p1{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size: 15px;
+    color:#ca2bb5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h2{
+    margin-top: 70px;
+    font-size: 30px;
+    display:flex;
+    align-items: center; 
+    justify-content: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #e0e4e6;
+}
+
+h3{
+    font-size: 20px;
+    display:flex;
+    align-items: center; 
+    justify-content: center;
+}
+
+#homepage{
+    display: flex;
+    align-items: center; 
+    justify-content:center;
+    padding-top: 30px;
+    gap: 20px;
+}
+
+#btnReset{
+    display:inline-flex;
+    padding:0.3em 1.2em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    background-color:#26b9e6;
+    text-align:center;
+    transition: all 0.2s;
+}
+#btnReset:hover{
+    background-color:#4095c6;
+}    
+
+a.buttonHome{
+    display:inline-flex;
+    padding:0.3em 1.2em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FFFFFF;
+    background-color:#26b9e6;
+    text-align:center;
+    transition: all 0.2s;
+}
+a.buttonHomme:hover{
+    background-color:#4095c6;
+}
+
+.players{
+    display:flex;
+    align-items: center; 
+    justify-content:space-around;
+    color: linen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

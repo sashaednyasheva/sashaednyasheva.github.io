@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MEMORY GAME - STREET ART NYC</title>
+    <link rel="stylesheet" href="stylephoebe1.css"></link>
+    <script src="gamephoebe.js"></script>
+
+</head>
+<body>
+    
+    <h2>Memory Game: Street Art in New York</h2>
+
+    <p1>CURRENT PLAYER: <span id="currentPlayer">1</span></p1> 
+
+    <div class= "players">
+        <h3>Player 1 Score: <span id="result1"></span></h3>
+        <h3>Player 2 Score: <span id="result2"></span></h3>
+    </div>
+
+    <div class="grid"> </div>    
+
+    <div id="homepage">
+        <a href="index.html"class="buttonHome">HOME</a>
+        <button id="btnReset">PLAY AGAIN!</button>
+        </div>
+     
+      
+    <audio id="match" src="sounds/swiftly-610.ogg" preload="auto"></audio>    
+    <audio id="noMatch" src="sounds/unsure-566.ogg" preload="auto"></audio>  
+    <audio id="congrats" src="sounds/goes-without-saying-608.ogg" preload="auto"></audio>  
+   
+
+   <script> 
+
+       document.getElementById("btnReset").addEventListener("click", function(){
+       location.reload();
+        return false;
+    });
+  
+   </script>   
+
+
+</body>
+</html>
+
