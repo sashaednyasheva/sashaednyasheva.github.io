@@ -30,6 +30,7 @@ Data presented includes:
 
 App was created with:
 - ReactJs
+- React Router
 - React-Select (to install: npm i --save react-select)
 
 ## Project Requirements
